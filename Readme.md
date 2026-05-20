@@ -1,0 +1,3 @@
+# Computer Science
+
+No cenário atual, a ciência da computação é a base para todas as inovações tecnológicas. Nesta disciplina, você explorará as estruturas fundamentais da computação, desde a lógica booleana até a programação em baixo nível. Estudaremos linguagens como C e Python, abordando conceitos de programação procedural e modular. Além disso, você aprenderá a aplicar esses conhecimentos para resolver problemas complexos e otimizar soluções, preparando-se para desafios mais avançados da carreira.
